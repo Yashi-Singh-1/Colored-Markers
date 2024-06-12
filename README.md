@@ -64,7 +64,7 @@ Colored Markers/
 <p>For any questions or feedback, please contact Yashi Singh via LinkedIn: www.linkedin.com/in/yashi-singh-b4143a246</p>
 
 <h2 id="credits">Credits</h2>
-<p>This project was inspired by [mention any sources or inspirations].</p>
+<p>This project was inspired by Free Code Camp [[mention any sources or inspirations]](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1).</p>
 
 <h2 id="license">License</h2>
 <p>This project is licensed under the MIT License.</p>
